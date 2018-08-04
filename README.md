@@ -1,2 +1,2 @@
-# zesty-tut
-For educational purposes.
+# JohnBot
+For my server!
